@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AssesmentReact/static/css/main.bb1e183e.chunk.css",
+    "main.js": "/AssesmentReact/static/js/main.cb43c094.chunk.js",
+    "main.js.map": "/AssesmentReact/static/js/main.cb43c094.chunk.js.map",
+    "runtime-main.js": "/AssesmentReact/static/js/runtime-main.d52002af.js",
+    "runtime-main.js.map": "/AssesmentReact/static/js/runtime-main.d52002af.js.map",
+    "static/css/2.818011ed.chunk.css": "/AssesmentReact/static/css/2.818011ed.chunk.css",
+    "static/js/2.7a2dac7d.chunk.js": "/AssesmentReact/static/js/2.7a2dac7d.chunk.js",
+    "static/js/2.7a2dac7d.chunk.js.map": "/AssesmentReact/static/js/2.7a2dac7d.chunk.js.map",
+    "static/js/3.f6accdcf.chunk.js": "/AssesmentReact/static/js/3.f6accdcf.chunk.js",
+    "static/js/3.f6accdcf.chunk.js.map": "/AssesmentReact/static/js/3.f6accdcf.chunk.js.map",
+    "index.html": "/AssesmentReact/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/AssesmentReact/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.bb1e183e.chunk.css.map": "/AssesmentReact/static/css/main.bb1e183e.chunk.css.map",
+    "static/js/2.7a2dac7d.chunk.js.LICENSE.txt": "/AssesmentReact/static/js/2.7a2dac7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d52002af.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.7a2dac7d.chunk.js",
+    "static/css/main.bb1e183e.chunk.css",
+    "static/js/main.cb43c094.chunk.js"
+  ]
+}
