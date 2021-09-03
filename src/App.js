@@ -3,12 +3,10 @@ import Axios from "axios";
 import MyCard from './MyCard';
 import { Container} from "reactstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
-
 import './App.css';
 
 const App=()=> {
   //Fetching the user
-
   const [details, setDetails] = useState([]);
   const fetchDetails = async () => {
     const { data } = await Axios.get("http://15.207.229.231:8000/machstatz/get_all_users");
